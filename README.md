@@ -1,11 +1,11 @@
 auth0-posts
 ===========
 
-  An IFTTT channel developed in `Node.js` that receives `Web-hooks` from my Auth0 posts on Facebook and push them to a history collection into a MLab database.
+  An [IFTTT](https://ifttt.com/) channel developed in [Node.js](https://nodejs.org/en/) that receives `Web-hooks` from written posts for [Auth0's Blog](https://auth0.com/blog) shared on [Facebook](https://www.facebook.com/) and push them to a history collection into a [MLab](https://mlab.com/) database.
 
   My simple implementation of [If This Then Node.js - Auth0](https://auth0.com/blog/if-this-then-node-dot-js-extending-ifttt-with-webtask-dot-io/).
 
-  These are my [Current Posts](https://wt-e7372b87fb801862dc4de3b9ffc2cb50-0.sandbox.auth0-extend.com/posts-view) and this is the [IFTTT Applet](https://ifttt.com/applets/77228127d-if-new-status-message-by-rafael-kendrik-then-make-a-web-request).
+  These are my [Sample Posts](https://wt-e7372b87fb801862dc4de3b9ffc2cb50-0.sandbox.auth0-extend.com/posts-view) and this is the [IFTTT Applet](https://ifttt.com/applets/77228127d-if-new-status-message-by-rafael-kendrik-then-make-a-web-request).
 
 **Dev. Stack**:
 
